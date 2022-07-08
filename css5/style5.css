@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(157, 168, 255);
+    color: #FFF;
+}
+
+h1 {
+    background-color: rgb(0, 104, 127);
+    font-size: 30px;
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    background-color: rgb(0, 104, 127, 0.5);
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#p1 {
+    background-color: rgb(0, 104, 127, 0.7);
+}
+
+#p2 {
+    background-color: rgb(0, 104, 127, 0.3);
+}
+
+ol {
+    background-color: rgb(0, 104, 127, 0.1);
+}
+
+h1,
+h2,
+p,
+ol {
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+h1,
+h2,
+p {
+    padding-left: 15px;
+}
+
+#li1 {
+    color: #ff2572;
+}
+
+#li2 {
+    color: #FFF800;
+}
+
+#li3 {
+    color: #1eff00;
+}
+
+#li4 {
+    color: #0037ff;
+}
+
+#li5 {
+    color: #7800e1;
+}
