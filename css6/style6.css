@@ -1,0 +1,15 @@
+p {
+    background-color: #9e0000;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.p-color {
+    background-color: #00bfff;
+}
+
+.p-opacity {
+    background-color: rgb(158,0,0,0.8);
+}
